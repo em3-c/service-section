@@ -1,5 +1,3 @@
-# mapsdemo
-# mapsdemo
 # service-section
 This section specifically targets towards the supplies and naviagtion for the safezone.
 Feature:
